@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-### 📍 **Sri Lanka** &nbsp;|&nbsp; 🟢 **Open to Internships & Projects** &nbsp;|&nbsp; 🎯 **FinTech • Full-Stack • Business Analysis**
+### 📍 **Colombo, Sri Lanka** &nbsp;|&nbsp; 🟢 **Open to Internships & Projects** &nbsp;|&nbsp; 🎯 **Business Analysis •  Full-Stack • FinTech**
 
 <br/>
 

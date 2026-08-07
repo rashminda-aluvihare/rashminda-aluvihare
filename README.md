@@ -74,12 +74,13 @@ const rashminda = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rashminda-aluvihare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=9b51e0&text_color=ffffff&border_radius=8" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rashminda-aluvihare&theme=tokyonight&hide_border=true&background=0d1117&stroke=9b51e0&ring=00f2fe&fire=ff6b6b&currStreakLabel=00f2fe&border_radius=8" width="48%" />
+<!-- GitHub Streak Stats (Working) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rashminda-aluvihare&theme=tokyonight&hide_border=true&border_radius=8" width="80%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashminda-aluvihare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=ffffff&border_radius=8&langs_count=8" width="48%" />
+<!-- GitHub Contribution Activity Graph (Rock Solid High Uptime) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rashminda-aluvihare&theme=tokyo-night&hide_border=true&radius=8" width="100%" />
 
 </div>
 

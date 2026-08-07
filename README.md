@@ -1,68 +1,105 @@
-<h1 align="center">Hi 👋, I'm Rashminda Aluvihare</h1>
-<h3 align="center">Final-Year HNDIT Student | Full-Stack Developer | Building AI & FinTech products from Sri Lanka 🇱🇰</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://rashmindaluvihare.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rashminda-aluvihare-98604532b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rashmindaluvihare@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:9b51e0,100:0070f3&height=180&section=header&text=Rashminda%20Aluvihare&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=HNDIT%20Undergraduate%20%7C%20Full%20Stack%20Developer%20%7C%20Business%20Analyst&descAlignY=62&descSize=15&animation=fadeIn" width="100%" />
+
+<!-- Typing SVG -->
+<a href="https://rashmindaluvihare.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Aspiring+Business+Analyst+%F0%9F%93%8A;FinTech+%26+Web+Applications+%F0%9F%92%B9;HNDIT+Undergraduate+%F0%9F%8E%93" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+### 📍 **Sri Lanka** &nbsp;|&nbsp; 🟢 **Open to Internships & Projects** &nbsp;|&nbsp; 🎯 **FinTech • Full-Stack • Business Analysis**
+
+<br/>
+
+</div>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year **HNDIT** student at the **Advanced Technological Institute (ATI), Dehiwala** (SLIATE)
-- 💼 Full-Stack Developer Intern @ **Decode Labs** (Remote) — built production-style projects solo, start to finish
-- 🌱 Currently focused on **AI-powered fintech & agri-tech platforms**
-- 🛠️ Comfortable across the stack: **PHP/MySQL**, **Node.js/Express**, and **Next.js/TypeScript**
-- 📍 Based in Colombo, Sri Lanka
-- 📫 Reach me at **rashmindaluvihare@gmail.com**
+- 🎓 **Education**: HNDIT Undergraduate in Sri Lanka
+- 💻 **Tech Core**: React 19, Next.js, Node.js, Java SE, PHP, PostgreSQL, MySQL
+- 🎯 **Focus Areas**: FinTech Engines, Requirements Engineering (SRS/BRD), Agile Delivery
+- 🌐 **Portfolio**: [rashmindaluvihare.vercel.app](https://rashmindaluvihare.vercel.app)
+
+```typescript
+const rashminda = {
+  name:       "Rashminda Aluvihare",
+  role:       "Full Stack Developer & Aspiring Business Analyst",
+  location:   "Sri Lanka 🇱🇰",
+  status:     "Open to Internships & Project Opportunities",
+  learning:   "Advanced System Design & Business Analysis Frameworks",
+};
+```
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+<!-- Interactive Icon Strip (Single Image) -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,php,react,nextjs,tailwind,html,css,nodejs,express,mysql,postgres,git,github,vercel,vscode,postman&perline=9" />
+</a>
+
+</div>
+
+<br/>
+
+- 💻 **Languages**: JavaScript, TypeScript, Java SE (OOP), PHP, SQL
+- 🎨 **Frontend**: React 19, Next.js, Tailwind CSS, HTML5, CSS3, Zustand
+- ⚙️ **Backend & DB**: Node.js, Express.js, MySQL, PostgreSQL, RESTful APIs
+- 📊 **Business Analysis & PM**: Requirements Engineering (SRS/BRD), BPMN & UML Modeling, Agile & Scrum
+- 🔧 **Tools & Platforms**: Git, GitHub, Vercel, Railway, Postman, VS Code
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[AgroNexa LK](https://github.com/rashminda-aluvihare/agronexa-lk)** | Smart farming platform connecting farmers, sellers, buyers & equipment owners, with a blockchain-inspired immutable rental ledger | Node.js, Express, PostgreSQL, Socket.io, JWT, Twilio |
-| **[FinBridge](https://github.com/rashminda-aluvihare/AI-Based-Personal-Financial-Health-and-Loan-Risk-Assessment-Platform-FinBridge-)** | AI-based microfinance & digital wallet platform with alternative credit scoring and group lending, trilingual (Sinhala/English/Tamil) | Next.js 14, TypeScript, Zustand, TailwindCSS |
-| **[Fund Management System](https://github.com/suneththivanka128/FundManagementSystem-v2)** | Web app for managing community fund registrations, payments & expenses with admin/user dashboards | PHP, MySQL, Chart.js |
-| **[Fixed Deposit Calculation System](https://github.com/rashminda-aluvihare/FixedDepositCalculation-System)** | Banking app modeling fixed deposit maturity, compound interest & tax deductions | Java |
-| **[Savings & Loan Calculation System](https://github.com/rashminda-aluvihare/Savingaccounts-LoancalculationSystem)** | Automates interest, EMI, and reducing-balance loan calculations with repayment schedules | Java |
-| **[My Portfolio](https://github.com/rashminda-aluvihare/My-portfolio)** | Personal portfolio & web applications | JavaScript |
+| Project | Description | Tech Stack | Link |
+| :---| :---| :---| :---: |
+| 💳 **FinBridge** | AI-powered FinTech platform with live financial engines | React 19, Next.js, Node.js, PostgreSQL | [🌐 Live Demo](https://rashmindaluvihare.vercel.app/#projects) |
+| 🌾 **AgroNexa LK** | Agri-marketplace with crypto transaction ledger | React, Express, PostgreSQL, Tailwind | [📂 GitHub Repo](https://github.com/rashminda-aluvihare) |
+| 💰 **Fund Management** | Financial tracking system for enterprise fund flow | PHP, MySQL, HTML5, CSS3 | [📂 GitHub Repo](https://github.com/rashminda-aluvihare) |
+| 🏦 **Banking Engine** | Core banking & loan interest calculator | Java SE (OOP Architecture) | [📂 GitHub Repo](https://github.com/rashminda-aluvihare) |
+| ⚡ **Portfolio** | Interactive portfolio website with AI chatbot | React 19, Vite, Glassmorphism CSS | [🌐 Live Demo](https://rashmindaluvihare.vercel.app) |
 
 ---
 
-### 🛠️ Tech Stack
+### 📈 GitHub Analytics
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rashminda-aluvihare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=9b51e0&text_color=ffffff&border_radius=8" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rashminda-aluvihare&theme=tokyonight&hide_border=true&background=0d1117&stroke=9b51e0&ring=00f2fe&fire=ff6b6b&currStreakLabel=00f2fe&border_radius=8" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashminda-aluvihare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=ffffff&border_radius=8&langs_count=8" width="48%" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashminda-aluvihare&show_icons=true&theme=default&count_private=true" alt="Rashminda's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashminda-aluvihare" alt="Rashminda's GitHub streak" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashminda-aluvihare&layout=compact&theme=default" alt="Top Languages" />
-</p>
+[🌐 Portfolio Website](https://rashmindaluvihare.vercel.app) &nbsp;|&nbsp; [💼 LinkedIn Profile](https://linkedin.com/in/rashminda-aluvihare-98604532b) &nbsp;|&nbsp; [🐙 GitHub Profile](https://github.com/rashminda-aluvihare)
+
+</div>
 
 ---
 
-<p align="center"><i>Open to internships, freelance projects, and collaborations. Let's build something ⚡</i></p>
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b51e0,50:00f2fe,100:0070f3&height=100&section=footer" width="100%" />
+
+<sub>Built with ❤️ by <a href="https://rashmindaluvihare.vercel.app">Rashminda Aluvihare</a></sub>
+
+</div>

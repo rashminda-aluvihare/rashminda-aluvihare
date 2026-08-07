@@ -101,6 +101,6 @@ const rashminda = {
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b51e0,50:00f2fe,100:0070f3&height=100&section=footer" width="100%" />
 
-<sub>Built with ❤️ by <a href="https://rashmindaluvihare.vercel.app">Rashminda Aluvihare</a></sub>
+
 
 </div>

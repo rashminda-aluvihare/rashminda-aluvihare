@@ -90,7 +90,7 @@ const rashminda = {
 
 <div align="center">
 
-[🌐 Portfolio Website](https://rashmindaluvihare.vercel.app) &nbsp;|&nbsp; [💼 LinkedIn Profile](https://linkedin.com/in/rashminda-aluvihare-98604532b) &nbsp;|&nbsp; [🐙 GitHub Profile](https://github.com/rashminda-aluvihare)
+[Portfolio Website](https://rashmindaluvihare.vercel.app) &nbsp;|&nbsp; [LinkedIn Profile](https://linkedin.com/in/rashminda-aluvihare-98604532b) &nbsp;|&nbsp; [ GitHub Profile](https://github.com/rashminda-aluvihare)
 
 </div>
 

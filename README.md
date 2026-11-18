@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:9b51e0,100:0070f3&height=180&section=header&text=Rashminda%20Aluvihare&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=HNDIT%20Undergraduate%20%7C%20Full%20Stack%20Developer%20%7C%20Business%20Analyst&descAlignY=62&descSize=15&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:9b51e0,100:0070f3&height=180&section=header&text=Rashminda%20Aluvihare&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Business%20Analyst&descAlignY=62&descSize=15&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://rashmindaluvihare.vercel.app">

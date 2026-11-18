@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://rashmindaluvihare.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Aspiring+Business+Analyst+%F0%9F%93%8A;FinTech+%26+Web+Applications+%F0%9F%92%B9;HNDIT+Undergraduate+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Aspiring+Business+Analyst+%F0%9F%93%8A;FinTech+%26+Web+Applications+%F0%9F%92%B9;IT+Undergraduate+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -20,7 +20,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Education**: HNDIT Undergraduate in Sri Lanka
+- 🎓 **Education**: IT Undergraduate in Sri Lanka
 - 💻 **Tech Core**: React 19, Next.js, Node.js, Java SE, PHP, PostgreSQL, MySQL
 - 🎯 **Focus Areas**: FinTech Engines, Requirements Engineering (SRS/BRD), Agile Delivery
 - 🌐 **Portfolio**: [rashmindaluvihare.vercel.app](https://rashmindaluvihare.vercel.app)
